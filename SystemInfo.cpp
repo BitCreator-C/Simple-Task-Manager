@@ -1,5 +1,4 @@
-#include "SystemInfo.h"
-#include <mach/mach.h>
+#include "Syste
 #include <sys/sysctl.h>
 #include <libproc.h>
 #include <iostream>
